@@ -7,7 +7,7 @@
 
 
 ## Git
-- []()
+- [Git 설명](Git/Git_manual.md)
 
 ## Github
 - [Github 기본 사용법](Github/manual.md)
